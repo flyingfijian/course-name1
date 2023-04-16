@@ -2,6 +2,8 @@
 title: Welcome to my blog
 ---
 
+![Picture of Islands](https://imgix.theurbanlist.com/content/article/Malamala-58_1.jpg)
+
 
 Hi there, and welcome to my blog! My name is flyingfijian, and I'm excited to share my thoughts and experiences with you.
 
